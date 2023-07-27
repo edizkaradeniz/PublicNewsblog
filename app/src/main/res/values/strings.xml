@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Public News Blog</string>
+
+
+    <string-array name="Kategoriler">
+
+        <item>Gündem</item>
+        <item>Sizin İçin</item>
+        <item>Spor</item>
+        <item>Finans</item>
+        <item>Yemek</item>
+        <item>Trend</item>
+        <item>Sinema</item>
+        <item>Seyehat</item>
+        <item>Oyun</item>
+        <item>Siyaset</item>
+        <item>Dünya</item>
+        <item>Hayat</item>
+        <item>Teknoloji</item>
+        <item>Eğitim</item>
+
+    </string-array>
+
+</resources>

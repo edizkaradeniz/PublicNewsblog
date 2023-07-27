@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "648520864414",
+    "firebase_url": "https://public-news-blog-e95ad.firebaseio.com",
+    "project_id": "public-news-blog-e95ad",
+    "storage_bucket": "public-news-blog-e95ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648520864414:android:2e69baf558d9fae02b618f",
+        "android_client_info": {
+          "package_name": "com.example.publicnewsblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648520864414-nu2kndvp81ss90nrv48rkspkr1135ed5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5Sa11IQuGTfY5NsKpTdgroYiriq-IoHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648520864414-nu2kndvp81ss90nrv48rkspkr1135ed5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

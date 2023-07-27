@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="12dp"
+    android:gravity="center_vertical">
+
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="ClickMenu"
+        android:src="@drawable/ic_menu"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Public News Blog"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:textColor="#636363"
+        android:layout_marginLeft="100dp"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_ayar"
+        android:layout_marginLeft="340dp"/>
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:layout_marginTop="10dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <View
+                android:layout_width="1425dp"
+                android:layout_height="32dp"
+                android:layout_marginTop="40dp"
+                android:layout_marginBottom="40dp"
+                android:background="#9966CC"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Gündem"
+        android:layout_marginTop="40dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="22sp"
+        android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sizin İçin"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="125dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Spor"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="245dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Finans"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="325dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Yemek"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="420dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Trend"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="515dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Sinema"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="605dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Seyehat"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="715dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Oyun"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="830dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Siyaset"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="915dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Dünya"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="1025dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hayat"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="1125dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Teknoloji"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="1215dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Eğitim"
+                android:layout_marginTop="40dp"
+                android:layout_marginLeft="1345dp"
+                android:textSize="22sp"
+                android:textColor="#F0F8FF"/>
+
+
+        </RelativeLayout>
+
+    </HorizontalScrollView>
+
+</RelativeLayout>
